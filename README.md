@@ -1,1 +1,1 @@
-Ctrl's website, redesigned. Forked from [CtrlIphonesSite](https://github.com/CtrliPhones/CtrliPhonesSite).
+Ctrl's website, redesigned. Forked from [CtrliPhonesSite](https://github.com/CtrliPhones/CtrliPhonesSite).
