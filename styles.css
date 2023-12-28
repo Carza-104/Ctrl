@@ -164,8 +164,21 @@ body {
 	}
 }
 
-@media screen and (max-width: 767px) {
+@media screen and (min-width: 512px) {
 	body {
+		padding: 5%;
+	}
+
+	header,
+	main {
+		padding-left: 5%;
+		padding-right: 5%;
+	}
+}
+
+@media screen and (max-width: 511px) {
+	body {
+		justify-content: unset;
 		padding: 5%;
 	}
 
