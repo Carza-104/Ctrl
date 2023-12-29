@@ -1,5 +1,5 @@
-Ctrl's website, redesigned. Forked from [CtrliPhonesSite](https://github.com/CtrliPhones/CtrliPhonesSite).
+Ctrl's website (redesigned), forked from [CtrliPhonesSite](https://github.com/CtrliPhones/CtrliPhonesSite).
 
-Actual website: https://cmdoptesc.xyz
+Original website: https://cmdoptesc.xyz
 
 Redesign preview: https://temp-ctrl-website.vercel.app
